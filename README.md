@@ -1,4 +1,4 @@
-# 👋 Hola, soy Zula  
+# 👋 Hola, soy Giuliano  
 
 🎓 Estudiante de **Ingeniería en Software**  
 💻 Desarrollo en **Python, Django, SQL y Java**  
