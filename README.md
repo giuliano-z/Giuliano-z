@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats
 
-![Giuliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliano-z&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Giuliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliano-z&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
