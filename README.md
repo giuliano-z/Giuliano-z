@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats
 
-![Giuliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliano-z&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![Giuliano's GitHub stats](https://komarev.com/ghpvc/?username=giuliano-z&color=blue&style=for-the-badge)
 
 ---
 
