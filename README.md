@@ -1,19 +1,19 @@
-<h1 align="center">👋 Hola, soy Giuliano</h1>
+<h1 align="center">Hey, I'm Giuliano 👋</h1>
 
 <p align="center">
   <b>Backend Developer · Python / Django / PostgreSQL</b><br/>
-  Córdoba, Argentina · Estudiante ISW @ Universidad Siglo 21
+  Córdoba, Argentina · Software Engineering Student @ Universidad Siglo 21
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About me
 
-- 🏥 Vine de 3 años de Medicina y una tecnicatura electromecánica — aprendí a diagnosticar antes de actuar
-- 🔧 Construyo sistemas backend robustos que resuelven problemas reales, no demos de portfolio
-- 🚀 Sistema en **producción activa** desde 2025 — control de stock, reportes financieros y +1800 transacciones registradas
-- 📚 Profundizando en arquitectura de sistemas y optimización de bases de datos
-- 💼 Buscando mi primer rol en un equipo tech donde pueda crecer junto a devs experimentados
+- 🏥 Non-linear path: 3 years of Medicine + Electromechanical technician — learned to diagnose before acting
+- 🔧 I build robust backend systems that solve real problems, not just portfolio demos
+- 🚀 Live system in production since 2025 — real-time stock control, financial reports & +1800 transactions
+- 📚 Deepening into system architecture and database optimization
+- 💼 Looking for my first role in a serious tech team where I can grow alongside experienced devs
 
 ---
 
@@ -29,26 +29,24 @@
 
 ---
 
-### 📌 Proyecto destacado
+### 📌 Featured project
 
-**🟢 Sistema de Gestión para Dietética — en producción**
-> Control de stock en tiempo real · Alertas automáticas · Reportes financieros (ROI, márgenes) · +1800 transacciones
+**🟢 Retail Management System — live in production**
+> Real-time stock control · Automatic alerts · Financial reports (ROI, margins) · +1800 transactions
 > `Django` `PostgreSQL` `Docker` `Chart.js` `Railway`
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giuliano-z&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![Giuliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliano-z&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
-### 🌐 Contacto
+### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliano-zulatto-37250b270/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliano-daniel-zulatto-37250b270/)
 
 ---
 
-<p align="center"><i>Abierto a desafíos backend y colaboraciones técnicas.</i></p>
+<p align="center"><i>Open to backend challenges and technical collaborations.</i></p>
