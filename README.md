@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Giuliano 👋</h1>
+<h1 align="center">Hey, I'm Giuliano </h1>
 
 <p align="center">
   <b>Backend Developer · Python / Django / PostgreSQL</b><br/>
