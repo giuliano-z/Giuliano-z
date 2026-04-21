@@ -10,7 +10,7 @@
 ### 🧠 About me
 
 - 🏥 Non-linear path: 3 years of Medicine + Electromechanical technician — learned to diagnose before acting
-- 🔧 I build robust backend systems that solve real problems, not just portfolio demos
+- 🔧 I'm interested in systems that create leverage — where good software multiplies human capacity
 - 🚀 Live system in production since 2025 — real-time stock control, financial reports & +1800 transactions
 - 📚 Deepening into system architecture and database optimization
 - 💼 Looking for my first role in a serious tech team where I can grow alongside experienced devs
