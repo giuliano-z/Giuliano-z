@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend Developer · Python / Django / PostgreSQL</b><br/>
-  Córdoba, Argentina · Software Engineering Student @ Universidad Siglo 21
+  Córdoba, Argentina · Software Engineering Student @ Universidad Empresarial Siglo 21
 </p>
 
 ---
