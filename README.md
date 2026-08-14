@@ -7,7 +7,7 @@ Córdoba, Argentina · Software Engineering student @ Universidad Empresarial Si
 
 > I built a system nobody used. Then I understood why — and that taught me more than any tutorial.
 
-I develop and maintain a Django ERP running in production for my family's health food store in Córdoba. It handles inventory with FIFO batch tracking, wholesale purchasing, recipe costing, analytics and reporting.
+I develop and maintain a Django ERP running in production for my family's health food store in Almafuerte. It handles inventory with FIFO batch tracking, wholesale purchasing, recipe costing, analytics and reporting.
 
 The system worked from day one. It just wasn't being used — recording a sale took too long, so sales never got logged. More business logic wouldn't have fixed that. I built a barcode-scanner POS instead, and that's when it started running for real.
 
