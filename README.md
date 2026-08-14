@@ -1,52 +1,54 @@
-<h1 align="center">Hey, I'm Giuliano </h1>
+# Hey, I'm Giuliano
 
-<p align="center">
-  <b>Backend Developer · Python / Django / PostgreSQL</b><br/>
-  Córdoba, Argentina · Software Engineering Student @ Universidad Empresarial Siglo 21
-</p>
+**Backend Developer · Python / Django / PostgreSQL**
+Córdoba, Argentina · Software Engineering student @ Universidad Empresarial Siglo 21
 
 ---
 
-### 🧠 About me
+> I built a system nobody used. Then I understood why — and that taught me more than any tutorial.
 
-- 🏥 Non-linear path: 3 years of Medicine + Electromechanical technician — learned to diagnose before acting
-- 🔧 I'm interested in systems that create leverage — where good software multiplies human capacity
-- 🚀 Live system in production since 2025 — real-time stock control, financial reports & +1800 transactions
-- 📚 Deepening into system architecture and database optimization
-- 💼 Looking for my first role in a serious tech team where I can grow alongside experienced devs
+I develop and maintain a Django ERP running in production for my family's health food store in Córdoba. It handles inventory with FIFO batch tracking, wholesale purchasing, recipe costing, analytics and reporting.
 
----
+The system worked from day one. It just wasn't being used — recording a sale took too long, so sales never got logged. More business logic wouldn't have fixed that. I built a barcode-scanner POS instead, and that's when it started running for real.
 
-### 🛠️ Tech Stack
+A correct system nobody uses is a system that failed.
+
+### About me
+
+- Non-linear path: Electromechanical Technician, then three years of Medicine, then software. Left me with a habit worth keeping — diagnose before acting, assume nothing.
+- Currently in my 3rd year of Software Engineering (29 courses passed, 8.22/10 GPA, merit scholarship). Intermediate degree in December 2026.
+- Most of what I know I learned by shipping it: Docker, CI/CD, PostgreSQL tuning and automated testing all came from a system with real users and real consequences.
+- Interested in backend architecture, database optimization and applied security.
+- Looking for my first formal role on a team where I can learn from more experienced developers.
+
+### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+### Featured
 
-### 📌 Featured project
+**🟢 [lino-saludable-erp](https://github.com/giuliano-z/lino-saludable-erp)** — Django ERP in production since December 2025
+Inventory with FIFO batches · barcode POS · recipe costing · profitability analytics
+366 automated tests (unit + Playwright E2E) · zero-downtime CI/CD · verified automated backups
+`Django` `PostgreSQL` `Docker` `GitHub Actions` `Railway`
 
-**🟢 Retail Management System — live in production**
-> Real-time stock control · Automatic alerts · Financial reports (ROI, margins) · +1800 transactions
-> `Django` `PostgreSQL` `Docker` `Chart.js` `Railway`
+**🔐 [stegomail](https://github.com/giuliano-z/stegomail)** — Private email messaging
+Diffie-Hellman key exchange, AES-256-CBC encryption and LSB steganography over PNG images
+`Python` `cryptography` `Pillow`
 
----
+**✈️ [AerolineasPC21](https://github.com/giuliano-z/AerolineasPC21)** — Flight and booking system
+Graph routing with Dijkstra, AVL trees for O(log n) bookings, balanced seat allocation
+`Java` `Maven` `JUnit`
 
-### 📊 GitHub Stats
+### Contact
 
-![Giuliano's GitHub stats](https://komarev.com/ghpvc/?username=giuliano-z&color=blue&style=for-the-badge)
+[LinkedIn](https://www.linkedin.com/in/giulianozulatto/) · giulianodanielzulatto@gmail.com
 
----
-
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliano-daniel-zulatto-37250b270/)
-
----
-
-<p align="center"><i>Open to backend challenges and technical collaborations.</i></p>
+Open to backend roles and technical collaborations.
